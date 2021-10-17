@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-VendaMsApplication<venda-ms>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "br.com.tech4me.vendams.VendaMsApplication",
+            "projectName": "venda-ms",
+            "args": ""
+        }
+    ]
+}
